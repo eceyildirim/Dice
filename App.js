@@ -6,10 +6,9 @@
  * @flow
  */
 
-import React, { Component } from 'react-native';
+import React, { Component } from 'react';
 import {
   StyleSheet,
-  Text,
   TouchableOpacity,
   Image
 } from 'react-native';
